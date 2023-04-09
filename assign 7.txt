@@ -1,0 +1,3 @@
+
+ans- The size of structure in c is 128 bytes.
+2-Individually calculate the sizes of each member of a structure and make a total to get Full size of a structure.
